@@ -7,3 +7,4 @@ Added in `main`
 * Added in subproject
 * Added in main
 
+* Add in plugin folder
