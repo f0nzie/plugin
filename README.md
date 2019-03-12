@@ -5,3 +5,5 @@ Also see the `subtree-demo-main` repo for the companion demo repo, acting as the
 Added in `main`
 
 * Added in subproject
+* Added in main
+
